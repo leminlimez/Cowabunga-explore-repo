@@ -1,0 +1,290 @@
+[
+  {
+    "name": "Trollface",
+    "description": ":trol:",
+    "url": "lock-themes/Trollface.zip",
+    "preview": "lock-theme-previews/Trollface_preview.png",
+    "contact": { "GitHub": "@haxi0" },
+    "version": "1.0"
+  },
+  {
+    "name": "OSX",
+    "description": "Lock icon from macOS.",
+    "url": "lock-themes/OSX.zip",
+    "preview": "lock-theme-previews/OSX_preview.png",
+    "contact": { "GitHub": "@BomberFish" },
+    "version": "1.0"
+  },
+  {
+    "name": "YangJiii Loader",
+    "description": "YangJiii.",
+    "url": "lock-themes/YangJiii_Loader.zip",
+    "preview": "lock-theme-previews/YangJiii_Loader_preview.png",
+    "contact": { "GitHub": "@YangJiii" },
+    "version": "1.0"
+  },
+  {
+    "name": "Apple Event",
+    "description": "Apple moment.",
+    "url": "lock-themes/Apple_Event.zip",
+    "preview": "lock-theme-previews/Apple_Event_preview.png",
+    "contact": { "GitHub": "@YangJiii" },
+    "version": "1.0"
+  },
+  {
+    "name": "Astronaut Color",
+    "description": "Flying through space... in color!",
+    "url": "lock-themes/Astronaut_Color.zip",
+    "preview": "lock-theme-previews/Astronaut_Color_preview.png",
+    "contact": { "GitHub": "@YangJiii" },
+    "version": "1.0"
+  },
+  {
+    "name": "Astronaut White",
+    "description": "Flying through space.",
+    "url": "lock-themes/Astronaut_White.zip",
+    "preview": "lock-theme-previews/Astronaut_White_preview.png",
+    "contact": { "GitHub": "@YangJiii" },
+    "version": "1.0"
+  },
+  {
+    "name": "Box Corgi",
+    "description": "Cute fuzzy friend shipped directly from Amazon.",
+    "url": "lock-themes/Box_Corgi.zip",
+    "preview": "lock-theme-previews/BoxCorgi_preview.png",
+    "contact": { "GitHub": "@YangJiii" },
+    "version": "1.0"
+  },
+  {
+    "name": "Box Funny",
+    "description": "idk what this is supposed to be.",
+    "url": "lock-themes/Box_Funny.zip",
+    "preview": "lock-theme-previews/BoxFunny_preview.png",
+    "contact": { "GitHub": "@YangJiii" },
+    "version": "1.0"
+  },
+  {
+    "name": "Box Lock",
+    "description": "idk what this is supposed to be.",
+    "url": "lock-themes/Box_Lock.zip",
+    "preview": "lock-theme-previews/BoxLock_preview.png",
+    "contact": { "GitHub": "@YangJiii" },
+    "version": "1.0"
+  },
+  {
+    "name": "Black Cat",
+    "description": "epic gamer cat",
+    "url": "lock-themes/Black_Cat.zip",
+    "preview": "lock-theme-previews/CatBlack_preview.png",
+    "contact": { "GitHub": "@YangJiii" },
+    "version": "1.0"
+  },
+  {
+    "name": "Windows 10",
+    "description": "",
+    "url": "lock-themes/Windows_10.zip",
+    "preview": "lock-theme-previews/Win10_preview.png",
+    "contact": { "GitHub": "@YangJiii" },
+    "version": "1.0"
+  },
+  {
+    "name": "Pikachu",
+    "description": "",
+    "url": "lock-themes/Pikachu.zip",
+    "preview": "lock-theme-previews/Pikachu_preview.png",
+    "contact": { "GitHub": "@YangJiii" },
+    "version": "1.0"
+  },
+  {
+    "name": "Poke Ball",
+    "description": "",
+    "url": "lock-themes/Poke_Ball.zip",
+    "preview": "lock-theme-previews/Pokeball_preview.png",
+    "contact": { "GitHub": "@YangJiii" },
+    "version": "1.0"
+  },
+  {
+    "name": "Green Poke Ball",
+    "description": "",
+    "url": "lock-themes/Green_Poke_Ball.zip",
+    "preview": "lock-theme-previews/Pokeball_Green_preview.png",
+    "contact": { "GitHub": "@YangJiii" },
+    "version": "1.0"
+  },
+  {
+    "name": "Hello",
+    "description": "",
+    "url": "lock-themes/Hello.zip",
+    "preview": "lock-theme-previews/Hello_preview.png",
+    "contact": { "GitHub": "@YangJiii" },
+    "version": "1.0"
+  },
+  {
+    "name": "LG",
+    "description": "",
+    "url": "lock-themes/LG.zip",
+    "preview": "lock-theme-previews/LG_preview.png",
+    "contact": { "GitHub": "@YangJiii" },
+    "version": "1.0"
+  },
+  {
+    "name": "Goku Ultra Instinct",
+    "description": "",
+    "url": "lock-themes/Goku_Ultra_Instinct.zip",
+    "preview": "lock-theme-previews/Goku_UltraInstinct_preview.png",
+    "contact": { "GitHub": "@YangJiii" },
+    "version": "1.0"
+  },
+  {
+    "name": "Pengu TFT",
+    "description": "",
+    "url": "lock-themes/Pengu_TFT.zip",
+    "preview": "lock-theme-previews/Pengu_preview.png",
+    "contact": { "GitHub": "@YangJiii" },
+    "version": "1.0"
+  },
+  {
+    "name": "Robo",
+    "description": "",
+    "url": "lock-themes/Robo.zip",
+    "preview": "lock-theme-previews/Robo_preview.png",
+    "contact": { "GitHub": "@YangJiii" },
+    "version": "1.0"
+  },
+  {
+    "name": "Sad",
+    "description": "",
+    "url": "lock-themes/Sad.zip",
+    "preview": "lock-theme-previews/Sad_preview.png",
+    "contact": { "GitHub": "@YangJiii" },
+    "version": "1.0"
+  },
+  {
+    "name": "Siri",
+    "description": "",
+    "url": "lock-themes/Siri.zip",
+    "preview": "lock-theme-previews/Siri_preview.png",
+    "contact": { "GitHub": "@YangJiii" },
+    "version": "1.0"
+  },
+  {
+    "name": "AHHHHHH",
+    "description": "Thanos snap",
+    "url": "lock-themes/AHHHHHH.zip",
+    "preview": "lock-theme-previews/AHHHHHH_preview.png",
+    "contact": { "Discord": "@Çhërį#2622" },
+    "version": "1.0"
+  },
+  {
+    "name": "Spy TF2",
+    "description": "",
+    "url": "lock-themes/Spy_TF2.zip",
+    "preview": "lock-theme-previews/Spy_TF2_preview.png",
+    "contact": { "Discord": "@iswaxan#8319" },
+    "version": "1.0"
+  },
+  {
+    "name": "Rainbow Star",
+    "description": "",
+    "url": "lock-themes/Rainbow_Star.zip",
+    "preview": "lock-theme-previews/Rainbow_Star_preview.png",
+    "contact": { "Twitter": "@The_Nobl3_Guy" },
+    "version": "1.0"
+  },
+  {
+    "name": "Street Fighter (Ken)",
+    "description": "",
+    "url": "lock-themes/Street_Fighter_(Ken).zip",
+    "preview": "lock-theme-previews/Street_Fighter_(Ken)_preview.png",
+    "contact": { "Twitter": "@The_Nobl3_Guy" },
+    "version": "1.0"
+  },
+  {
+    "name": "Street Fighter (Ryu)",
+    "description": "",
+    "url": "lock-themes/Street_Fighter_(Ryu).zip",
+    "preview": "lock-theme-previews/Street_Fighter_(Ryu)_preview.png",
+    "contact": { "Twitter": "@The_Nobl3_Guy" },
+    "version": "1.0"
+  },
+  {
+    "name": "Street Fighter (Blanca)",
+    "description": "",
+    "url": "lock-themes/Street_Fighter_(Blanca).zip",
+    "preview": "lock-theme-previews/Street_Fighter_(Blanca)_preview.png",
+    "contact": { "Twitter": "@The_Nobl3_Guy" },
+    "version": "1.0"
+  },
+  {
+    "name": "Masked Face ID",
+    "description": "",
+    "url": "lock-themes/Masked_Face_ID.zip",
+    "preview": "lock-theme-previews/Masked_Face_ID_preview.png",
+    "contact": { "GitHub": "@YangJiii" },
+    "version": "1.0"
+  },
+  {
+    "name": "Touch ID",
+    "description": "",
+    "url": "lock-themes/Touch_ID.zip",
+    "preview": "lock-theme-previews/Touch_ID_preview.png",
+    "contact": { "GitHub": "@YangJiii" },
+    "version": "1.0"
+  },
+  {
+    "name": "Space Guy",
+    "description": "",
+    "url": "lock-themes/Space_Guy.zip",
+    "preview": "lock-theme-previews/Space_Guy_preview.png",
+    "contact": { "GitHub": "@YangJiii" },
+    "version": "1.0"
+  },
+  {
+    "name": "Funny Rabbit Man",
+    "description": "",
+    "url": "lock-themes/Funny_Rabbit_Man.zip",
+    "preview": "lock-theme-previews/Funny_Rabbit_Man_preview.png",
+    "contact": { "GitHub": "@YangJiii" },
+    "version": "1.0"
+  },
+  {
+    "name": "Classic Lock (White)",
+    "description": "",
+    "url": "lock-themes/Classic_Lock_(White).zip",
+    "preview": "lock-theme-previews/Classic_Lock_(White).png",
+    "contact": { "GitHub": "@YangJiii" },
+    "version": "1.0"
+  },
+  {
+    "name": "Swaying Head",
+    "description": "",
+    "url": "lock-themes/Swaying_Head.zip",
+    "preview": "lock-theme-previews/Swaying_Head_preview.png",
+    "contact": { "GitHub": "@YangJiii" },
+    "version": "1.0"
+  },
+  {
+    "name": "Mario Kart (Toad)",
+    "description": "",
+    "url": "lock-themes/Mario_Kart_(Toad).zip",
+    "preview": "lock-theme-previews/Mario_Kart_(Toad)_preview.png",
+    "contact": { "Twitter": "@The_Nobl3_Guy" },
+    "version": "1.0"
+  },
+  {
+    "name": "Pokemon (Togepi)",
+    "description": "",
+    "url": "lock-themes/Pokemon_(Togepi).zip",
+    "preview": "lock-theme-previews/Pokemon_(Togepi)_preview.png",
+    "contact": { "Twitter": "@The_Nobl3_Guy" },
+    "version": "1.0"
+  },
+  {
+    "name": "Tails",
+    "description": "",
+    "url": "lock-themes/Tails.zip",
+    "preview": "lock-theme-previews/Tails_preview.png",
+    "contact": { "Twitter": "@The_Nobl3_Guy" },
+    "version": "1.0"
+  },
+]
