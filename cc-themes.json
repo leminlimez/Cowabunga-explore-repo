@@ -6,7 +6,7 @@
     "url": "cc-presets/StylisticCC.plist",
     "preview": "cc-preset-previews/StylisticCC-preview.png",
     "contact": { "Twitter": "@LeminLimez" },
-    "modules": [1, 2]
+    "modules": [1, 2],
     "version": "1.0"
   },
   {
@@ -16,7 +16,7 @@
     "url": "cc-presets/CCModulePlusPlus.plist",
     "preview": "cc-preset-previews/CCModulePlusPlus-preview.png",
     "contact": { "Twitter": "@iTechExpert21" },
-    "modules": [1, 2, 3]
+    "modules": [1, 2, 3],
     "version": "1.0"
   }
 ]
