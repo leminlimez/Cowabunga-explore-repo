@@ -18,5 +18,15 @@
     "contact": { "Twitter": "@iTechExpert21" },
     "modules": [1, 2, 3],
     "version": "1.0"
+  },
+  {
+    "name": "Stereo",
+    "identification": "StereoCC",
+    "description": "Stereo CC",
+    "url": "cc-presets/StereoCC.plist",
+    "preview": "cc-preset-previews/StereoCC-preview.png",
+    "contact": { "Twitter": "@maxiweee69" },
+    "modules": [1, 2],
+    "version": "1.0"
   }
 ]
