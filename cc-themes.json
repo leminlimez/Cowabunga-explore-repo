@@ -28,5 +28,15 @@
     "contact": { "Twitter": "@maxiweee69" },
     "modules": [1, 2],
     "version": "1.0"
+  },
+  {
+    "name": "Reachable",
+    "identification": "ReachableCC",
+    "description": "Reachable CC",
+    "url": "cc-presets/ReachableCC.plist",
+    "preview": "cc-preset-previews/ReachableCC-preview.png",
+    "contact": { "Twitter": "@jam_minty" },
+    "modules": [1],
+    "version": "1.0"
   }
 ]
