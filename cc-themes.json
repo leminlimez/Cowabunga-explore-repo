@@ -5,8 +5,25 @@
     "description": "Stylistic CC",
     "url": "cc-presets/StylisticCC.plist",
     "preview": "cc-preset-previews/StylisticCC-preview.png",
-    "contact": { "Twitter": "@LeminLimez" },
-    "modules": [1, 2],
+    "contact": {
+      "Twitter": "@LeminLimez"
+    },
+    "modules": [
+      1,
+      2
+    ],
+    "version": "1.0"
+  },
+  {
+    "name": "ControlConfig Reset",
+    "identification": "ControlConfigReset",
+    "description": "ControlConfig Reset - for use with kfd mode",
+    "url": "cc-presets/ControlConfigReset.plist",
+    "preview": "cc-preset-previews/ControlConfigReset-preview.png",
+    "contact": {
+      "Twitter": "@vishyfishy2"
+    },
+    "modules": [],
     "version": "1.0"
   },
   {
@@ -15,8 +32,14 @@
     "description": "CC Module ++",
     "url": "cc-presets/CCModulePlusPlus.plist",
     "preview": "cc-preset-previews/CCModulePlusPlus-preview.png",
-    "contact": { "Twitter": "@iTechExpert21" },
-    "modules": [1, 2, 3],
+    "contact": {
+      "Twitter": "@iTechExpert21"
+    },
+    "modules": [
+      1,
+      2,
+      3
+    ],
     "version": "1.0"
   },
   {
@@ -25,8 +48,13 @@
     "description": "Stereo CC",
     "url": "cc-presets/StereoCC.plist",
     "preview": "cc-preset-previews/StereoCC-preview.png",
-    "contact": { "Twitter": "@maxiweee69" },
-    "modules": [1, 2],
+    "contact": {
+      "Twitter": "@maxiweee69"
+    },
+    "modules": [
+      1,
+      2
+    ],
     "version": "1.0"
   },
   {
@@ -35,8 +63,12 @@
     "description": "Reachable CC",
     "url": "cc-presets/ReachableCC.plist",
     "preview": "cc-preset-previews/ReachableCC-preview.png",
-    "contact": { "Twitter": "@jam_minty" },
-    "modules": [1],
+    "contact": {
+      "Twitter": "@jam_minty"
+    },
+    "modules": [
+      1
+    ],
     "version": "1.0"
   }
 ]
