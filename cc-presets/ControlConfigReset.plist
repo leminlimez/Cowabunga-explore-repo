@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+    <dict>
+        <key>disabled-module-identifiers</key>
+        <array></array>
+        <key>module-identifiers</key>
+        <array>
+            <string>connect</string>
+            <string>music</string>
+            <string>rotate</string>
+            <string>airplay</string>
+            <string>screen</string>
+            <string>volume</string>
+            <string>focusui</string>
+            <string>home.large</string>
+            <string>ios15.dnd</string>
+            <string>ios15.car</string>
+            <string>ios15.sleep</string>
+            <string>mute</string>
+            <string>ptrace</string>
+            <string>com.apple.control-center.FlashlightModule</string>
+            <string>com.apple.control-center.stopwatch</string>
+            <string>com.apple.control-center.CalculatorModule</string>
+            <string>com.apple.control-center.CameraModule</string>
+            <string>com.apple.control-center.LowPowerModule</string>
+            <string>com.apple.shazamkit.controlcenter.ShazamModule</string>
+            <string>com.apple.control-center.QRCodeModule</string>
+            <string>com.apple.mobiletimer.controlcenter.timer</string>
+        </array>
+        <key>userenabled-fixed-module-identifiers</key>
+        <array/>
+        <key>version</key>
+        <integer>1</integer>
+    </dict>
+</plist>
