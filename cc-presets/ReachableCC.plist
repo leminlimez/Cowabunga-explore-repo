@@ -38,7 +38,7 @@
 		<string>com.apple.control-center.ConnectivityModule</string>
 		<string>com.apple.control-center.LowPowerModule</string>
 		<string>com.apple.accessibility.controlcenter.hearingdevices</string>
-		<string>com.apple.control-center.DisplayModule</string>
+		<string>com.apple.control-center.AppearanceModule</string>
 		<string>com.apple.shazamkit.controlcenter.ShazamModule</string>
 		<string>com.apple.control-center.CameraModule</string>
 		<string>com.apple.control-center.MuteModule</string>
